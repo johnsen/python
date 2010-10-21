@@ -1,0 +1,24 @@
+
+
+
+"""
+  >>> b_list[1:]
+  ['Stills', 'Nash']
+  >>> group = b_list + c_list
+  >>> group[-1]
+  'Young'
+"""
+
+
+
+a_list = [0, 1, 2, 42, 4, 5, 'Ni!', 7]
+
+
+
+
+if __name__ == '__main__':
+    import doctest
+    doctest.testmod()
+
+
+

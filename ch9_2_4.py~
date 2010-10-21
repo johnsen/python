@@ -1,0 +1,20 @@
+
+"""
+  >>> range(a, b, c)
+  [5, 9, 13, 17]
+"""
+
+a = 6
+b = 18
+c = 4
+
+
+
+
+
+if __name__ == '__main__':
+    import doctest
+    doctest.testmod()
+
+
+

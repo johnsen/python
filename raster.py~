@@ -1,0 +1,6 @@
+def make_raster():
+    print '+'
+    print '-'
+
+
+make_raster()

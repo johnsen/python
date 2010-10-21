@@ -1,0 +1,9 @@
+def print_gedicht():
+     print "Berend Botje ging uit varen"
+     print "met zijn scheepje naar Zuidlaren."
+
+def herhaal_gedicht():
+      print_gedicht()
+      print_gedicht()
+
+herhaal_gedicht()

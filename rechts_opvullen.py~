@@ -1,0 +1,6 @@
+def rechts_opvullen(s):
+    print 70 * '' s
+
+
+rechts_opvullen('allen')
+

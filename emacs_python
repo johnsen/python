@@ -1,0 +1,1 @@
+M-x shell, M-x compile, M-!, M-x python-send-buffer

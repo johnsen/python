@@ -1,0 +1,11 @@
+def longestword(wordset):
+    """
+      >>> longestword(['a', 'apple', 'pear', 'grape'])
+      5
+      >>> longestword(['a', 'am', 'I', 'be'])
+      2
+      >>> longestword(['this', 'that', 'supercalifragilisticexpialidocious'])
+      34
+    """
+    
+    return string.count(s, (wordset[i])

@@ -1,0 +1,14 @@
+import string
+
+def sortfruits(oldfile, newfile):
+    infile = open(oldfile, 'r')
+    outfile = open(newfile, 'w')
+    text = infile.read()
+    print text[[1][1]]
+    #text = sorted(text)
+#    text = text.sort()
+ #   outfile.write(text)
+  #  infile.close()
+   # outfile.close()
+
+sortfruits('/home/d/python/unsorted_fruits.txt', '/home/d/python/sorted_fruits.txt')
